@@ -310,6 +310,7 @@ class MathSelectionOverlay {
           ],
           manager,
           clipboardStatus,
+          null, // TODO: replace with proper value simply a workaround for #37
         ),
       ),
     );
